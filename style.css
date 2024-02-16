@@ -1,0 +1,41 @@
+
+
+#heading h4{
+    font-size: 15px;
+    color: blue;
+ 
+    letter-spacing: 2px;
+    font-weight: bolder;
+}
+
+body {
+ background-color: grey;
+ 
+}
+
+#footer {
+line-height: 3;
+position: fixed;
+bottom: 2px;
+text-align: center;
+width: 100%;
+font-size: 20px;
+background-color: white;
+text-shadow: 5px 5px 5px rgb(150, 150, 150);
+
+}
+
+#heading{
+    text-align: center;
+    background-color:white;
+    margin-top:0;
+    background-color: yellow;
+}
+
+#body button{
+   width: 100px;
+   margin-top: 20px;
+   letter-spacing: 3px;
+   font-weight: bolder;
+   background-color: red;
+}
